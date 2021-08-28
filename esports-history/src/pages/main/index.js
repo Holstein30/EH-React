@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Carousel from "../../global/carousel";
-import Parallax from "./parallax";
+import Parallax from "./Parallax";
 import About from "./about";
 import Background from "./background";
 import Podcast from "./podcast";
