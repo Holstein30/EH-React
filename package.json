@@ -1,1 +1,5 @@
-{}
+{
+  "scripts": {
+    "build": "cd esports-history && npm run build"
+  }
+}
