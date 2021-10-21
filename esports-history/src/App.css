@@ -63,7 +63,7 @@
 
 .carousel img {
   max-height: 90vh;
-  width: auto;
+  width: 100%;
 }
 
 footer p {
