@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "esports-history/public",
+    "public": "esports-history",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
