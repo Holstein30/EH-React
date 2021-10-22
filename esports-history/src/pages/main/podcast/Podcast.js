@@ -24,7 +24,7 @@ class Podcast extends Component {
             alt="esports history logo"
             title="The Entire History of Esports in Brief"
             blurb={introBlurb}
-            audioSource="http://hwcdn.libsyn.com/p/8/a/f/8af468c57789b632/Jocko_Podcast_183_JackCarr.mp3?c_id=45639680&cs_id=45639680&destination_id=454905&expiration=1561759910&hwt=b2d2d27b4bf8e3e5cdaa6d47929b50a0"
+            audioSource=""
           />
           <Card
             image={finalBossImage}
@@ -47,12 +47,12 @@ class Podcast extends Component {
 }
 
 const cardSectionStyle = {
-  padding: "2rem 0"
+  padding: "2rem 0",
 };
 
 const cardSectionH1Style = {
   fontSize: "4rem",
-  marginBottom: "0"
+  marginBottom: "0",
 };
 
 const cardContainerStyle = {
@@ -60,7 +60,7 @@ const cardContainerStyle = {
   justifyContent: "space-around",
   maxWidth: "90vw",
   margin: "0 auto",
-  padding: "2rem"
+  padding: "2rem",
 };
 
 export default Podcast;
